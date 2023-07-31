@@ -1,0 +1,72 @@
+## 0.1.0
+
+- Initial release, featuring:
+  - images
+    - attacks:
+      - axe-deathblade-double
+      - spear-poison
+      - tenebris-hail
+    - misc: 
+      - lingering (the effect icon for the 'linger' weapon special)
+    - projectiles: 
+      - skull-[1~4] (the projectile for the 'Skullslinger' unit line)
+    - units
+      - elves
+        - stormfeather (level 4 Elvish Sharpshooter, base frame & fully animated ranged attack)
+        - paragon (level 4 Elvish Marshal, base frame only)
+        - phantom (level 4 Elvish Avenger, base frame only)
+        - predator (level 4 Elvish Champion, base frame only)
+      - goblins
+        - WIP
+      - orcs
+        - Fully animated & frankensteined 'Orcish Brawler' unit line: brawler, brutestalker, bloodscourge, doombringer
+        - annihilator: copied from 'Reign of the Lords' as level 4 'Orcish Slurbow'
+        - child: copied from 'Reign of the Lords' as level 0 orc, advancing to the assassin, archer, grunt or brawler
+        - conqueror: copied from 'Reign of the Lords' as level 4 'Orcish Sovereign'
+        - deathbringer: copied from 'Reign of the Lords' as level 4 'Orcish Nightblade'
+        - lifebinder: frankensteined level 4 'Orcish Shaman'
+        - orcish shaman, seer, sorcerer: copied from 'Son of the Black Eye'
+      - trolls
+        - all images copied from 'Reign of the Lords' or 'Legend of the Invincibles'
+      - undead
+        - banescourge: Brand-new, animated & frankensteined level 3 'Deathblade'
+        - baron: Copied from mainline as level 2 advancement for the Skeleton, the preceding unit to the level 3  'Death Knight'
+        - doombat: Copied from 'Reign of the Lords' as level 3 'Dread Bat'
+        - dreadsniper: Copied from 'Legend of the Invincibles' as level 4 'Banebow'
+        - marshal: Brand-new, frankensteined level 4 'Death Knight' (base frame only)
+        - scourgeeater: Brand-new, frankensteined level 4 'Deathblade' (base frame only)
+        - skullslinger, skullbarrager, sentinel: Brand-new, fully animated, alternative level 2, 3 and 4  advancements for the Skeleton Archer
+        - titan: Brand-new, fully animated level 4 'Draug'
+    - lua
+      - _main.lua is responsible to load all lua scripts
+      - status.lua adds the 'linger' status effect to units, the code was taken from 'Legend of the Invincibles'
+    - units
+      - Configurations are based on 1.18 balance updates, trying to provide linear progression for all level jumps
+    - utils
+      - abilities
+        - agile: Improves movement cost relative to 'orcishfoot' on most terrains
+        - calms: Nearby units take 10% more damage
+        - darkens: Copied 'obscures' from 'Legend of the Invincibles' (opposite of illuminates)
+        - eagle_eye: Sets vision points to 12
+        - ethereal_command: WIP
+        - fearless: Adds the same effects as the trait 'fearless', but as ability
+        - intimidates: Adjacent enemies deal 10% less damage
+        - invigorates: heals +12 hp
+        - mentorship: WIP
+        - natureattuned: Defense improved on fungus, forest and swamp
+        - protector: Adjacent allies take 25% less damage
+        - rampage: Temporary stacking damage bonus per kill, capping at +3 damage
+        - rejuvenates: regenerates +12 hp
+        - titanium_inlays: Specifically designed for the level 4 Grave Titan, to provide modified resistances
+      - weapon specials
+        - blood magic: Specifically designed for Orcish Shaman unit line; the unit receives 10% of its damage dealt (kinda the opposite of 'drains')
+        - deadeye: Like 'magical' but only on offense (so a better sharpshooter)
+        - disable: Disables the enemy's attacks (should be used carefully or this is very powerful)
+        - dormant: A stacking damage bonus that is granted for *not* using the attack
+        - gather: Increases strikes by 1 upon scoring a kill, increasing by 2 turns for each kill
+        - intimidate: When used offensively, the enemy deals 10% less damage
+        - linger: Applies a lingering damage effect on the enemy, dealing i.e. 4, 3, 2, 1 damage each successive  round (this lingering damage*is able to kill*)
+        - tenebris: WIP
+      - amla: Standard AMLA effects for custom advancements
+      - animation utils: The missile frame for the 'Skullslinger' Skeleton Archer advancement line
+
