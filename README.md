@@ -17,12 +17,13 @@ You can find the add-on by searching for "**RPS Units**".
 
 ### Usage
 
-You can simply download the add-on from the official Battle for Wesnoth add-ons server. Alternatively, you can clone 
-this repository into your userdata directory.
+You can simply download the add-on from the official Battle for Wesnoth add-ons server. Alternatively, you can clone this repository into your userdata directory.
 
 You may copy images from this repository into your own UMC add-on, as long as your add-on complies with the official Battle for Wesnoth add-on server rules, including copy-right requirements.
 
 Whilst it is neither required nor do I demand it, I wouldgreatly appreciate credits if you decide to use my content.
+
+More information in the `MODDING.md` file.
 
 ### Images
 
