@@ -31,11 +31,25 @@ I started out creating Battle for Wesnoth unit "Pixel Art" by "frankensteining" 
 
 With more experience and plenty of "frankensteined" unit sprites created, I started adding more and more custom and individual aspects to my sprites, eventually creating completely new units, such as the "Grave Sentinel", an alternative advancement line of the undead Skeleton Archer.
 
-The following units were created by myself. Whilst few provide only base sprites, most provide simple or even more enhanced attack animation frames.
+The following unit sprites were created by myself. Whilst few provide only base sprites, most provide simple or even more enhanced attack animation frames.
 
-- 
+- Elvish Stormfeather (slightly animated)
+- Orcish Lifebinder (base frame)
+- Orcish Scout (base frame)
+- Orcish Brawler (fully animated, with plenty of variations as well)
+- Orcish Brutestalker (fully animated)
+- Orcish Bloodscourge (slightly animated)
+- Orcish Doombringer (slightly animated)
+- Banescourge (fully animated)
+- Death Marshal (base frame)
+- Scourgeeater (slightly animated)
+- Grave Sentinel (fully animated)
+- Skullbarrager (base frame)
+- Skullslinger (slightly animated)
+- Grave Titan (fully animated)
 
-Whilst I do not maintain an accurate list, some images were copied from the following add-ons:
+Whilst I do not maintain an accurate list, most sprites of units **not** listed above were copied from the following 
+add-ons:
 
 - A Whim of Fate
 - Ageless Era
