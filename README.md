@@ -1,8 +1,9 @@
 # RPS Units
 
-Custom unit sprites and configurations for the Battle for Wesnoth.
+Custom unit sprites and configurations for the Battle for Wesnoth. Originally released alongside the UMC 
+single-player campaign add-on "Deception".
 
-*Note: RPS are my full name initials, hence this repository's / add-on's name.* 
+UMC single-player campaign add-on Deception: UMC add-on Deception: https://github.com/schilffarth/deception
 
 ## Availability
 
