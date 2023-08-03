@@ -1,3 +1,7 @@
+## 0.1.1
+
+- Fixed 'Doom Bat' image paths
+
 ## 0.1.0
 
 - Initial release, featuring:
