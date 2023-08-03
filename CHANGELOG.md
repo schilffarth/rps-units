@@ -1,6 +1,8 @@
 ## 0.1.1
 
 - Fixed 'Doom Bat' image paths
+- Added 'Warg Rider' and 'Goblin Raider' configurations, alongside adjustments to the 'Goblin Devastator' config
+- Added 'modification' to be enabled for other content
 
 ## 0.1.0
 
