@@ -1,3 +1,9 @@
+## 0.1.2
+
+- Added 'Deathwing Bat' level 4 advancement configuration (uses same unit sprites as 'Doom Bat')
+- Added 'Paladin of Death' alternative level 4 advancement for Death Marshal (unit sprite copied from Reign of the Lords)
+- 
+
 ## 0.1.1
 
 - Fixed 'Doom Bat' image paths
