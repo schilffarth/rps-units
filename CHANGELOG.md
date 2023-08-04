@@ -1,3 +1,14 @@
+## 0.1.1
+
+- Fixed 'Doom Bat' image paths
+- Added 'Warg Rider' and 'Goblin Raider' configurations, alongside adjustments to the 'Goblin Devastator' config
+- Added 'modification' to be enabled for other content
+- Added female orcish shaman unit sprites by 'OrcSteve'
+- The weapon special 'rampage' checks units of a side's turn refresh, instead of new turn
+- Completed the ability 'mentors'
+- Updated weapon special 'blood magic' to return 1 damage instead of 20% damage dealt
+- Fixed Death Baron advancement unit id
+
 ## 0.1.0
 
 - Initial release, featuring:
