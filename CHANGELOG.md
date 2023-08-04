@@ -5,7 +5,8 @@
 - Added 'modification' to be enabled for other content
 - Added female orcish shaman unit sprites by 'OrcSteve'
 - The weapon special 'rampage' checks units of a side's turn refresh, instead of new turn
-- Completed the ability 'mentorship'
+- Completed the ability 'mentors'
+- Updated weapon special 'blood magic' to return 1 damage instead of 20% damage dealt
 
 ## 0.1.0
 
