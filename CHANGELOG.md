@@ -7,6 +7,7 @@
 - The weapon special 'rampage' checks units of a side's turn refresh, instead of new turn
 - Completed the ability 'mentors'
 - Updated weapon special 'blood magic' to return 1 damage instead of 20% damage dealt
+- Fixed Death Baron advancement unit id
 
 ## 0.1.0
 
