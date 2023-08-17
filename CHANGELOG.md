@@ -2,7 +2,10 @@
 
 - Added 'Deathwing Bat' level 4 advancement configuration (uses same unit sprites as 'Doom Bat')
 - Added 'Paladin of Death' alternative level 4 advancement for Death Marshal (unit sprite copied from Reign of the Lords)
-- 
+- Added base unit sprite for 'Orcish Deathbringer'
+- Removed female orcish shaman sprites in favor of Mechanical's "Female Orcish Shamans" resource add-on
+- Added female unit configurations to Orcish Shaman, Seer and Sorcerer
+- Added new attack icon 'blood magic', used for the renamed Orcish Shaman unit line ranged attack 'blood burst'
 
 ## 0.1.1
 
