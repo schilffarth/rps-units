@@ -6,6 +6,8 @@
 - Removed female orcish shaman sprites in favor of Mechanical's "Female Orcish Shamans" resource add-on
 - Added female unit configurations to Orcish Shaman, Seer and Sorcerer
 - Added new attack icon 'blood magic', used for the renamed Orcish Shaman unit line ranged attack 'blood burst'
+- Removed 'Orcish Scout' fangs attack, in favor of fangs 12-2 melee blade damage
+- Fixed 'Orcish Brawler' melee attack animation (it wasn't used properly)
 
 ## 0.1.1
 
