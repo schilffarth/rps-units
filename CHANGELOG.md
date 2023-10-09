@@ -1,6 +1,22 @@
+## 0.1.3
+
+- Reduced 'Orcish Scout' movement from 11 to 9
+- Fixed ability 'intimidates' to be cumulative for other damage factors
+- Added 'Naga Lich' unit config with sprites from TRoW 1.17 Jevyan
+- Removed elvish unit resources, their sprites and configs suck (Elvish Stormfeather config and art files remain)
+- Added ability 'dive'
+- Added 'Bone Pirate', an alternative to the Banebow (sprites copied from ROTL)
+- Added 'Bone Captain', level 4 advancement of the 'Bone Pirate' (uses same sprites as Bone Pirate)
+- Moved the Skullslinger sprites a level down (new level 4 sprite; old level 4 sprites are now used for level 3, etc)
+- Added Slitherblade, copied from ROTL, level 3 Deathblade, and its level 4 Doomwarden
+- Added Abomination, copied from LOTI, level 4 Ghast
+- Added Horror, copied from ROTL, level 3 Nightgaunt
+- Added Reaper, copied from ROTL, level 3 Spectre
+- Added Necrophiliac, copied from ROTL, level 4 Necromancer
+- Applied XP updates from 1.18 undead balance changes, to be more in line with level 3 xp reqs
+
 ## 0.1.2
 
-- Added 'Deathwing Bat' level 4 advancement configuration (uses same unit sprites as 'Doom Bat')
 - Added 'Paladin of Death' alternative level 4 advancement for Death Marshal (unit sprite copied from Reign of the Lords)
 - Added base unit sprite for 'Orcish Deathbringer'
 - Removed female orcish shaman sprites in favor of Mechanical's "Female Orcish Shamans" resource add-on

@@ -50,8 +50,7 @@ The following unit sprites were created by myself. Whilst few provide only base 
 - Skullslinger (slightly animated)
 - Grave Titan (fully animated)
 
-Whilst I do not maintain an accurate list, most sprites of units **not** listed above were copied from the following 
-add-ons:
+Whilst I do not maintain an accurate list, most sprites of units **not** listed above were copied from the following add-ons:
 
 - A Whim of Fate
 - Ageless Era
