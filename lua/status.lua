@@ -9,10 +9,10 @@ function wesnoth.interface.game_display.unit_status()
     if not u then return {} end
     local s = old_unit_status()
     if u.status.lingering then
-        table.insert(s, { "element", {
+        table.insert(s, wml.tag.element {
             image = "misc/lingering.png",
             tooltip = _"lingering: This unit suffers a lingering damage effect. Every turn, the unit takes damage equal to the opponent's level, decreasing by 1 each turn until it reaches 0 and depletes."
-        } })
+        })
     end
     --! Add more statuses here
     return s
